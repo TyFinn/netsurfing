@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+! [Adblock Plus 2.0]
 ! Checksum: WNet9pZYNuN9I/6jPCOVSQ
 ! Version: 202405140731
 ! Title: EasyList China
